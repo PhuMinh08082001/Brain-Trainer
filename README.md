@@ -1,5 +1,5 @@
 # Brain-Trainer
 
-Here.My android studio project with java lenguage.
+Here.My android studio project with java language.
 
 
