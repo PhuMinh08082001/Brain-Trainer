@@ -1,2 +1,5 @@
 # Brain-Trainer
-da
+
+Here.My android studio project with java lenguage.
+
+
